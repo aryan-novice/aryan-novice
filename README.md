@@ -4,8 +4,8 @@
 
 I like turning messy, real-world data into clear answers: where a hostel mess's food goes, what people actually spend their UPI money on, and why a "96% accurate" model can still be bad.
 
-🎯 **Looking for:** Data Analyst / Data Scientist roles and internships (2026)
-🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/aryan-raj-4b0301374)
+- 🎯 **Looking for:** Data Analyst / Data Scientist roles and internships (2026)
+- 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/aryan-raj-4b0301374)
 
 ---
 
@@ -26,10 +26,10 @@ I like turning messy, real-world data into clear answers: where a hostel mess's 
 
 ### 🧰 Skills
 
-**Data:** Python (pandas, NumPy, matplotlib, Plotly) · SQL (MySQL, SQLite: joins, CTEs, window functions) · Excel
-**Machine learning:** scikit-learn · text classification (TF-IDF) · logistic regression, Naive Bayes, SVM · cross-validation, precision/recall, threshold tuning
-**Tools:** Jupyter · Streamlit · Git & GitHub
-**Also:** Java · Spring Boot · REST APIs
+- **Data:** Python (pandas, NumPy, matplotlib, Plotly) · SQL (MySQL, SQLite: joins, CTEs, window functions)
+- **Machine learning:** scikit-learn · text classification (TF-IDF) · logistic regression, Naive Bayes, SVM · cross-validation, precision/recall, threshold tuning
+- **Tools:** Jupyter · Streamlit · Git & GitHub
+- **Also:** Java · Spring Boot · REST APIs
 
 ---
 
