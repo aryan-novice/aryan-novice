@@ -1,10 +1,10 @@
 # Hi, I'm Aryan 👋
 
-**Aspiring Data Analyst / Data Scientist** · B.Tech CSE (2026) · Amritsar, India
+**Aspiring Data Scientist / Generative AI Engineer** · B.Tech CSE (2026) · Amritsar, India
 
-I like turning messy, real-world data into clear answers: where a hostel mess's food goes, what people actually spend their UPI money on, and why a "96% accurate" model can still be bad.
+I like turning messy, real-world data and documents into clear answers: where a hostel mess's food goes, what people actually spend their UPI money on, why a "96% accurate" model can still be bad, and how to make an LLM answer from your own files instead of making things up.
 
-- 🎯 **Looking for:** Data Analyst / Data Scientist roles and internships (2026)
+- 🎯 **Looking for:** Generative AI / ML Engineer, Data Scientist and Data Analyst roles (2026)
 - 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/aryan-raj-4b0301374)
 
 ---
@@ -13,6 +13,7 @@ I like turning messy, real-world data into clear answers: where a hostel mess's 
 
 | Project | What it does | Result | Stack |
 |---|---|---|---|
+| [**DocDost**](https://github.com/aryan-novice/doc-dost) | RAG chatbot: upload PDFs or notes, ask questions, get answers only from your files with citations | Right passage in the top 4 for **95%** of test questions (keywords alone: 82.5%) | LangChain · ChromaDB · Gemini / Llama · Streamlit |
 | [**Kharcha AI**](https://github.com/aryan-novice/kharcha-ai) | Tags messy UPI payment notes ("zmto biryani", "rent oct") into 10 spend categories, then finds money insights | **95% accurate**, and 90% even when the note is empty | Python · NLP · scikit-learn · Streamlit |
 | [**Plate to Bin**](https://github.com/aryan-novice/plate-to-bin) | Tracks where a 1,200-student hostel mess's food goes, and tests whether a weekend opt-in pilot worked | Found **23.5% of food wasted**, worth ₹46.5 lakh in 8 months | SQL (CTEs, window functions) · pandas · Plotly |
 | [**Spam SMS Classifier**](https://github.com/aryan-novice/spam-sms-classifier) | Rebuilt my first ML model after finding "96% accuracy" was hiding missed spam | Spam caught **68% → 89%** at 99% precision | scikit-learn · NLP · model evaluation |
@@ -26,9 +27,11 @@ I like turning messy, real-world data into clear answers: where a hostel mess's 
 
 ### 🧰 Skills
 
+- **Generative AI:** RAG · LangChain · ChromaDB · embeddings (MiniLM) · hybrid search (BM25 + vectors) · Gemini, Groq / Llama, Ollama · prompt engineering
+- **NLP:** tokenization · embeddings · Transformer attention · TF-IDF · text classification
 - **Data:** Python (pandas, NumPy, matplotlib, Plotly) · SQL (MySQL, SQLite: joins, CTEs, window functions)
 - **Machine learning:** scikit-learn · text classification (TF-IDF) · logistic regression, Naive Bayes, SVM · cross-validation, precision/recall, threshold tuning
-- **Tools:** Jupyter · Streamlit · Git & GitHub
+- **Tools:** Jupyter · Streamlit · Git & GitHub · pytest
 - **Also:** Java · Spring Boot · REST APIs
 
 ---
