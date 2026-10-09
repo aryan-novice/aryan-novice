@@ -6,7 +6,7 @@ I like turning messy, real-world data and documents into clear answers: where a 
 
 - 🎯 **Looking for:** Generative AI / ML Engineer, Data Scientist and Data Analyst roles (2026)
 - 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/aryan-raj-4b0301374)
-
+- 🌐 **Portfolio:** [aryan-novice.github.io](https://aryan-novice.github.io)
 ---
 
 ### 📊 Featured projects
